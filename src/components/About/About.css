@@ -1,0 +1,15 @@
+.svgs{
+width: 80vh;
+height: 60vh;
+margin-bottom: 500px;
+justify-content: center;
+align-items: center;
+}
+.block{
+    width: 100vh;
+    height: 100vh;  
+}
+.para{
+    width: 60vh;
+    height: 80vh;
+}

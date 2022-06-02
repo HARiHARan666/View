@@ -1,0 +1,32 @@
+.bannerImage {
+    background-image: linear-gradient( rgba(33,37,41,1), rgba(255,0,0,0)),
+    url('./backimg.jpg') ;
+    background-repeat: 'no-repeat';
+    background-position: 'center';
+    background-size: 100% 100%;
+    height: fit-content;
+    width: 100%;
+    height: 120vh;
+    display: flex;
+   
+ }
+ .Texts{
+     justify-content: 'center';
+     align-items: 'center';
+     text-align: 'center';
+     display: flex;
+     position: absolute;
+     top: 50%;
+     left: 50%;
+     transform: translate(-50%, -50%);
+ }
+
+  .logo{
+      width: 100px;
+      height: 100px;
+      align-items: 'center';
+      justify-content: 'center';
+      flex: auto;
+      margin-left: 37em;
+  }
+  
