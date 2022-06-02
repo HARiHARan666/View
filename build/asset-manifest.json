@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/svp/static/css/main.4d956f0c.css",
+    "main.js": "/svp/static/js/main.450239f4.js",
+    "static/js/787.a697000a.chunk.js": "/svp/static/js/787.a697000a.chunk.js",
+    "static/media/backimg.jpg": "/svp/static/media/backimg.036b9f610d8536e0c627.jpg",
+    "static/media/teacher-2.jpg": "/svp/static/media/teacher-2.ecf3a900b30e82d07092.jpg",
+    "static/media/teacher-3.jpg": "/svp/static/media/teacher-3.4eeff60f68d00d4b81b5.jpg",
+    "static/media/footer-bg.png": "/svp/static/media/footer-bg.d7e7007f39973e7acf31.png",
+    "static/media/teacher-4.jpg": "/svp/static/media/teacher-4.32ff2d1d1f2dab1258ce.jpg",
+    "static/media/teacher-1.jpg": "/svp/static/media/teacher-1.c782cadf4d880a9ff5ab.jpg",
+    "static/media/teacher-bg.png": "/svp/static/media/teacher-bg.ad0fa699b2bfd285aad9.png",
+    "static/media/3.jpg": "/svp/static/media/3.0b8ba47fd88ca489a34f.jpg",
+    "static/media/hero-bg.png": "/svp/static/media/hero-bg.1fbcad4b1dbf4f7bffdf.png",
+    "static/media/LOGOS.png": "/svp/static/media/LOGOS.12156f9121ce04945d93.png",
+    "static/media/10.jpg": "/svp/static/media/10.cac7dd45cb9629ed9f62.jpg",
+    "static/media/2.jpg": "/svp/static/media/2.299c2339ec1f19e16e45.jpg",
+    "static/media/7.jpg": "/svp/static/media/7.603a6bfbf0038d13ef96.jpg",
+    "static/media/5.jpg": "/svp/static/media/5.4ab6957b0fb6f732c801.jpg",
+    "static/media/9.jpg": "/svp/static/media/9.17a37201f0376246c961.jpg",
+    "static/media/4.jpg": "/svp/static/media/4.290facbba85867d2186c.jpg",
+    "static/media/1.jpg": "/svp/static/media/1.a272c861c450a6e5a6c5.jpg",
+    "static/media/6.jpg": "/svp/static/media/6.16c752feffd3c2ba8019.jpg",
+    "static/media/8.jpg": "/svp/static/media/8.4fd64b8ae3f515909899.jpg",
+    "static/media/about.svg": "/svp/static/media/about.cbb8e6dfb92067874eda8a06fe458d23.svg",
+    "static/media/book.svg": "/svp/static/media/book.7829b3ecb4199512fa1c3cacafdc8fce.svg",
+    "index.html": "/svp/index.html",
+    "main.4d956f0c.css.map": "/svp/static/css/main.4d956f0c.css.map",
+    "main.450239f4.js.map": "/svp/static/js/main.450239f4.js.map",
+    "787.a697000a.chunk.js.map": "/svp/static/js/787.a697000a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4d956f0c.css",
+    "static/js/main.450239f4.js"
+  ]
+}
